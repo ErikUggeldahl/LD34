@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 53b0e359217b5ad4b924ba36f3f48ad4
+timeCreated: 1472417990
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Man_Idle0
+    21300002: Man_Idle1
+    21300004: Man_Walk0
+    21300006: Man_Walk1
+    21300008: Man_Whip0
+    21300010: Man_Whip1
+    21300012: Man_Whip3
+    21300014: Man_IdleSnake0
+    21300016: Man_IdleSnake1
+    21300018: Man_WalkSnake0
+    21300020: Man_WalkSnake1
+    21300022: Man_IdleSand0
+    21300024: Man_IdleSand1
+    21300026: Man_WalkSand0
+    21300028: Man_WalkSand1
+    21300030: Man_Drink0
+    21300032: Man_Drink1
+    21300034: Man_Mirage0
+    21300036: Man_Mirage1
+    21300038: Man_Mirage2
+    21300040: Man_Dance0
+    21300042: Man_Dance1
+    21300044: Man_Recover0
+    21300046: Man_Recover1
+    21300048: Man_Recover2
+    21300050: Man_IdleBloody0
+    21300052: Man_IdleBloody1
+    21300054: Man_WalkBloody0
+    21300056: Man_WalkBloody1
+    21300058: Man_Transfer0
+    21300060: Mummy_Transfer0
+    21300062: TransferBeam0
+    21300064: TransferBeam1
+    21300066: Man_TransferComplete
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Man_Idle0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 9
+        height: 20
+      alignment: 9
+      pivot: {x: 0.6170429, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Idle1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 180
+        width: 9
+        height: 19
+      alignment: 9
+      pivot: {x: 0.61704254, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Walk0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 180
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Walk1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5702258, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Whip0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 176
+        width: 11
+        height: 20
+      alignment: 9
+      pivot: {x: 0.6816864, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Whip1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 176
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.77066106, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Whip3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 176
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23665452, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_IdleSnake0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 19
+        height: 20
+      alignment: 9
+      pivot: {x: 0.81528383, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_IdleSnake1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 159
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.8268307, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_WalkSnake0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 159
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.70409083, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_WalkSnake1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 19
+        height: 20
+      alignment: 9
+      pivot: {x: 0.65669614, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_IdleSand0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 13
+        height: 19
+      alignment: 9
+      pivot: {x: 0.73006713, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_IdleSand1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 138
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.7121906, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_WalkSand0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 138
+        width: 17
+        height: 19
+      alignment: 9
+      pivot: {x: 0.6735564, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_WalkSand1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 138
+        width: 15
+        height: 18
+      alignment: 9
+      pivot: {x: 0.62953645, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Drink0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 138
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.63608706, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Drink1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 138
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.6757175, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Mirage0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 138
+        width: 11
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5976951, y: -0.0022392273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Mirage1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 138
+        width: 9
+        height: 20
+      alignment: 9
+      pivot: {x: 0.6144299, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Mirage2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 138
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.6017664, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Dance0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 138
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.63635963, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Dance1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 138
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.6770859, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Recover0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 19
+        height: 5
+      alignment: 9
+      pivot: {x: 0.33885086, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Recover1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 19
+        height: 5
+      alignment: 9
+      pivot: {x: 0.34388676, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Recover2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 118
+        width: 13
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5803796, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_IdleBloody0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 118
+        width: 9
+        height: 19
+      alignment: 9
+      pivot: {x: 0.6122377, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_IdleBloody1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 118
+        width: 9
+        height: 18
+      alignment: 9
+      pivot: {x: 0.6122377, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_WalkBloody0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 118
+        width: 13
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_WalkBloody1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 118
+        width: 15
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5646591, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_Transfer0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 118
+        width: 9
+        height: 19
+      alignment: 9
+      pivot: {x: 0.6174638, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mummy_Transfer0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 118
+        width: 9
+        height: 20
+      alignment: 9
+      pivot: {x: 0.61055416, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TransferBeam0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 131
+        width: 11
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TransferBeam1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 127
+        width: 11
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Man_TransferComplete
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 118
+        width: 9
+        height: 19
+      alignment: 9
+      pivot: {x: 0.61097974, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
